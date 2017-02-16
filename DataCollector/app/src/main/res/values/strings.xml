@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataCollector</string>
+    <string name="name">Name</string>
+    <string name="lastname">lastName</string>
+    <string name="birthdate">birth date</string>
+    <string name="add_user_title">add user</string>
+    <string name="add_photo_title">add photo</string>
+</resources>

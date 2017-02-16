@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zbieracz danych</string>
+    <string name="name">Imie</string>
+    <string name="lastname">Nazwisko</string>
+    <string name="birthdate">Data urodzenia</string>
+    <string name="add_user_title">Dodaj</string>
+    <string name="add_photo_title">Dodaj zdjecie</string>
+</resources>
